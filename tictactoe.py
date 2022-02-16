@@ -12,7 +12,7 @@ Player = str
 Board = list[list]
 Coords = tuple[int, int]
 
-####heyyou###
+
 
 def create_board(size: int) -> Board:
     """
